@@ -23,7 +23,7 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 ## Briefings de Projets
 Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te sont proposés.
 
-1. [La-prairie](./La-prairie/)
+1. [La-prairie](./Parcours/La-prairie/)
 
 ## Ressources 
 - [Grafikart](https://www.youtube.com/user/grafikarttv)
