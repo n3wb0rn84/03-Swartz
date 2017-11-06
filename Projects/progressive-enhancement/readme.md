@@ -9,9 +9,9 @@
 - Ca veut dire quoi "**sémantique**" ?
 Pour bien composer un document HTML, il faut raisonner non pas en termes d'apparence graphique mais en termes de définition de chacun des objets le composant, c.à.d. raisonner en terme de structure du document.
 Utiliser une balise "titre" pour un titre, une balise "définition" pour une définition, etc.
-Concrètement, se poser la question: "*Ce bout de texte, c'est quoi: un titre? Un paragraphe? Une légende? Et ce bloc, est-ce un chapitre ? Une note de l'auteur ?*" et en fonction de la réponse, choisir la balise correspondante ou s'en rapprochant le plus.
+Concrètement, se poser la question: "*Ce bout de texte, c'est quoi : un titre ? Un paragraphe ? Une légende ? Et ce bloc, est-ce un chapitre ? Une note de l'auteur ?*" et en fonction de la réponse, choisir la balise correspondante ou s'en rapprochant le plus.
 
-- **Pourquoi** la sémantique est importante pour le web developer?
+- **Pourquoi** la sémantique est importante pour le web developer ?
 googlebot (donc SEO organique) + Accessibilité (liseuses d'écran).
 Le googlebot est une calculatrice chargée de retourner à un humain les meilleurs résultats possibles pour ce qu'il a cherché (quelques mots). Une calculatrice, c'est puissant, mais c'est bête. Elle doit donc faire semblant de penser comme un humain, et pour cela, elle analyse le contenu d'une page HTML en lisant les balises, ce qui lui permet de "comprendre" ce dont parle la page. Si celle-ci semble correspondre à la recherche, elle va la retourner à l'utilisateur sinon, pas.
 
@@ -25,10 +25,10 @@ Par conséquent, si nos pages ne sont pas bien sémantiques, Google ne les montr
 
 - **balises** = les "blocs". Ils permettent d'indiquer la fonction sémantique d'une portion de contenu.
 - Exercices : 
-	- Retranscris [ce document Texte](doc-le-paysan-chinois.txt) en sémantique html, donc en utilisant les bons blocs html (pas de `div` ni de `span`)  
+	- Retranscris [ce document Texte](doc-le-paysan-chinois.txt) en sémantique HTML, donc en utilisant les bons blocs HTML (pas de `div` ni de `span`)  
 	- Utilise les balises suivantes: `h1`, `h2`, `blockquote`, `q`, `img`, `p`, `img`, `hr`, `figure` et `caption`, `table`, `th`, `tr`, `td`, `ul` ou `ol` et `li`. 
 	- Retrouve, pour chacune de ces balises, l'origine de leur nom (c'est comme cela qu'on les retient). En cas de doute, cherche la réponse sur [html5doctor.com](http://html5doctor.com).
-	- Ajoute deux ou trois liens de ton choix dans la page html via la balise `a`
+	- Ajoute deux ou trois liens de ton choix dans la page HTML via la balise `a`
 	- Y-a-t-il une partie que l'on pourrait considérer comme une entête? Si oui, regroupe la dans une balise `header`. 
 	- Et un pied de page? Si oui, regroupe ce contenu là dans une balise `footer`
 	- Mets toutes les instances des mots "Bien" et "Mal" dans une balise `span` , `em` ou `strong`. 
@@ -37,7 +37,7 @@ Par conséquent, si nos pages ne sont pas bien sémantiques, Google ne les montr
 - Trop de sémantique tue la sémantique. La règle (comme souvent en programmation) est :  
 	**Le moins de code possible, mais autant que nécessaire.**
 
-- **Les attributs html** : ils permettent de définir les caractéristiques des balises.  Imagine qu'il y ait une balise "humain". 
+- **Les attributs HTML** : ils permettent de définir les caractéristiques des balises.  Imagine qu'il y ait une balise "humain". 
 ```<human>Steven Paul Jobs, dit Steve Jobs, (San Francisco, 24 février 1955 - Palo Alto, 5 octobre 2011) est un entrepreneur... </human>```   
 Nous pouvons, avec des attributs, décrire cet humain pour le différencier des autres.
 
@@ -57,8 +57,9 @@ De la sorte, en augmentant la sémantique des balises par des attributs, on a ai
 	
 ## 2. CSS (Le look)
  
--  Les sélecteurs en CSS (part 1): via la balise
--  contrôler l'aspect du texte: `font-style` (serif / sans-serif), font-size, color, line-height  
+### Les sélecteurs en CSS (part 1) : via la balise
+Contrôler l'aspect du texte : `font-style` (serif / sans-serif), font-size, color, line-height.
+
 -  Exercices : 
 	- stylise les paragraphes: utilise une police à empatement, augmente un peu l'interlignage, utilise une taille de base bien lisible. Donne au texte de couleur foncée, mais pas noire.
 	- stylise les liens de manière à les rendre bien lisibles.
@@ -68,8 +69,8 @@ De la sorte, en augmentant la sémantique des balises par des attributs, on a ai
 ![Le bloc](https://www.dropbox.com/s/jhv1lod1kw1ieas/Capture%20d%27%C3%A9cran%202017-05-15%2023.39.38.png?dl=1)  
 Une balise est rendue sous forme de "bloc". Tu peux contrôler les dimensions et les espacements de ce bloc :   
 
-- `width`/ `height` : dimensions  
-- `border`: contrôle la bordure. Par exemple: `border:1px solid #FF0000;` crée un bord fait d'un trait continu (`solid`) rouge `#FF0000` et de 1px d'épaisseur
+- `width`/`height` : dimensions  
+- `border` : contrôle la bordure. Par exemple: `border:1px solid #FF0000;` crée un bord fait d'un trait continu (`solid`) rouge `#FF0000` et de 1px d'épaisseur
 - `padding` : l'espace entre le contenu du bloc et son contour (le `border`). Le padding "gonfle" le bloc.  
 - `margin` : l'espace autour du bloc, à l'extérieur de lui. Le margin distancie le bloc de son entourage.  
 - **Exercices**   
@@ -82,7 +83,7 @@ Une balise est rendue sous forme de "bloc". Tu peux contrôler les dimensions et
 	- Ajoute une bordure à gauche de chaque citation, de 3px et de couleur brique    
 	- Le texte des citations touche la bordure, ce n'est pas joli. Ajoute un espace de 30px entre la bordure et le texte de la citation.  
 	- Fais en sorte que les citations aient un espace vide de 80 pixels au dessus et en dessous.  
-- Le fond du bloc: `background-color` , `background-image`
+- Le fond du bloc : `background-color` , `background-image`
 - **Exercices** 
 	- ajoute une couleur de fond à ton `body`
 	- Change la couleur de fond pour utiliser un dégradé de couleur (va sur [http://www.colinkeany.com/blend/](http://www.colinkeany.com/blend/))
@@ -126,9 +127,9 @@ Le plus souvent, on sélectionne les éléments à styliser via l'attribut `clas
 	-  Exercice : fais en sorte que le texte courre autour des images, en utilisant, sur les images, la propriété float (ajuste avec du margin pour distancier le texte de l'image).   
 	-  sortir du flux: position `static` / `relative` / `absolute` / `fixed`   
 		-  	la propriété `position` permet de positionner un élément n'importe où (via les propriétés `top` et `left`), à partir des coordonnées de son premier parent en position: relative ou static. [Expérimente via ce Pen](https://codepen.io/pixeline/pen/vmzNjw?).
-	-   Exercice: une [notification d'interface](https://codepen.io/pixeline/pen/dWqMxe)
-	-   Exercice: [position absolue](https://codepen.io/pixeline/pen/JNaKJv) 
-	-  Plus d'informations sur le positionnement CSS: http://fr.learnlayout.com
+	-   Exercice : une [notification d'interface](https://codepen.io/pixeline/pen/dWqMxe)
+	-   Exercice : [position absolue](https://codepen.io/pixeline/pen/JNaKJv) 
+	-  Plus d'informations sur le positionnement CSS : http://fr.learnlayout.com
 
 ## 3. Web fonts
 Par défaut, le navigateur utilise les polices de caractères installées sur l'ordinateur du client. Cependant, tu peux utiliser des polices de caractères spécifiques : les **webfonts**.
@@ -139,7 +140,7 @@ Exercice :
 ## 4. Les bonbons
 - Élimine le css utilisé par défaut par les navigateurs (`reset.css`), ou pars sur une base normalisée (`normalize.css`)  
 
-## Du bon html? 
+## Du bon HTML ? 
 - Vérifie que ton HTML est **valide** via le [validateur du w3c](https://validator.w3.org/)
 - Vérifie que ton HTML permet **une bonne SEO organique**, via d'autres outils comme [Woorank (payant)](https://www.woorank.com/fr/)
 
@@ -148,5 +149,6 @@ Exercice :
 	- [homepage de turlututu.com](turlututu.png)
 
 ## Bonus
-- Crée une version en html sémantique du document [8 façons simples d’améliorer la typographie dans vos designs](doc-ameliorer-sa-typo.txt) et améliore la lisibilité en appliquant tout le css pour en améliorer le contenu. Cherche à produire un résultat favorisant la lecture, proche d'un article sur Medium. 
-- Crée une version en html sémantique du document [Petit Guide Typographique](doc-guide-typographie.txt) et améliore la lisibilité en appliquant tout le css pour en améliorer le contenu. Cherche à produire un résultat favorisant la lecture, proche d'un article sur Medium. 
+- Crée une version en HTML sémantique de ces documents et améliore la lisibilité en appliquant tout le css pour en améliorer le contenu. Cherche à produire un résultat favorisant la lecture, proche d'un article sur Medium :
+- [8 façons simples d’améliorer la typographie dans vos designs](doc-ameliorer-sa-typo.txt) 
+- [Petit Guide Typographique](doc-guide-typographie.txt)
