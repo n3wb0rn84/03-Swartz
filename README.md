@@ -11,8 +11,7 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 
 ## Retards et absences
 - Si tu dois fixer un rendez-vous quelconque, fixe-le le **mardi matin** (sois de retour pour 13h25).
-- Si vraiment tu ne peux faire autrement, préviens nous **au moins un jour à l'avance** en envoyant un email à vos coachs. Nous l'ajouterons à l'agenda, de sorte que tout le monde sache qu'il ne peut compter sur toi à ce moment-là.
-- Malade ? Montre un certificat médical valide et préviens-nous par email aussitôt que possible.
+- Si vraiment tu ne peux faire autrement, préviens nous de ton absence ou retard **au moins un jour à l'avance** en envoyant un email à tes deux coachs. Nous l'ajouterons à l'agenda, de sorte que tout le monde sache qu'il ne peut compter sur toi à ce moment-là.
 
 ## Contenus pédagogiques
 
