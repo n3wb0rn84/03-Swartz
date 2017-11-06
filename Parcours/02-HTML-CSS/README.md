@@ -10,7 +10,8 @@
 - [Liste des exercices](exercices.md)
 
 ### Projet :
-- [Amélioration progressive](progressive-enhancement)
+- [Interview de webdev](../../Projects/interview-webdev)
+- [Amélioration progressive](../../Projects/progressive-enhancement)
 
 ### Ressources générales :
 - [Solo learn - HTML Fundamentals](https://www.sololearn.com/Course/HTML/)
