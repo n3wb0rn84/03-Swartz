@@ -22,7 +22,7 @@ Par conséquent, si nos pages ne sont pas bien sémantiques, Google ne les montr
 > You Can't Use What You Can't Find.
 > – [Peter Morville](https://thatsthespir.it/quote/view/10)
 
-#### À toi de jouer !
+**À toi de jouer !**
 - Retranscris [ce document Texte](doc-le-paysan-chinois.txt) en sémantique HTML, donc en utilisant les bons blocs HTML (pas de `div` ni de `span`)  
 - Utilise les balises suivantes : `h1`, `h2`, `blockquote`, `q`, `img`, `p`, `img`, `hr`, `figure` et `caption`, `table`, `th`, `tr`, `td`, `ul` ou `ol` et `li`. 
 - Retrouve, pour chacune de ces balises, l'origine de leur nom (c'est comme ça qu'on les retient). En cas de doute, cherche la réponse sur [html5doctor.com](http://html5doctor.com).
@@ -62,10 +62,11 @@ Contrôler l'aspect du texte : `font-style` (serif / sans-serif), `font-size`, `
 - le **bloc** : margin / padding / Width / Height  
 
 #### Une balise en forme de bloc ?
+
 Une balise est rendue sous forme de "bloc". Tu peux contrôler les dimensions et les espacements de ce bloc :   
 ![Le bloc](https://www.dropbox.com/s/jhv1lod1kw1ieas/Capture%20d%27%C3%A9cran%202017-05-15%2023.39.38.png)
 
-- `width`/`height` : dimensions  
+- `width`/`height` : dimensions
 - `border` : contrôle la bordure. Par exemple : `border:1px solid #FF0000;` crée un bord fait d'un trait continu (`solid`) rouge `#FF0000` et de 1px d'épaisseur.
 - `padding` : l'espace entre le contenu du bloc et son contour (le `border`). Le padding "gonfle" le bloc.  
 - `margin` : l'espace autour du bloc, à l'extérieur de lui. Le margin distancie le bloc de son entourage.  
@@ -138,7 +139,7 @@ Par défaut, le navigateur utilise les polices de caractères installées sur l'
 - Va sur [Google Webfonts](https://fonts.google.com/) : change la police de caractère de ton document à celle-ci : Open Sans. Si tu n'y arrives pas, [fais d'abord cet exercice](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/20997/) (clique sur le bouton "remix").
 - Choisis une autre police pour les titres, suffisamment différente.
 
-## 4. Les bonbons
+## 4. Reset et Normalize
 - Élimine le css utilisé par défaut par les navigateurs (`reset.css`), ou pars sur une base normalisée (`normalize.css`)  
 
 ## Du bon HTML ? 
@@ -146,8 +147,8 @@ Par défaut, le navigateur utilise les polices de caractères installées sur l'
 - Vérifie que ton HTML permet **une bonne SEO organique**, via d'autres outils comme [Woorank (payant)](https://www.woorank.com/fr/)
 
 ## Exercice pratique terminant ce sprint
-- Sans aller voir le code source, reproduis le plus fidèlement possible les layouts suivants :    
-	- [homepage de turlututu.com](turlututu.png)
+Sans aller voir le code source, reproduis le plus fidèlement possible les layouts suivants :    
+- [homepage de turlututu.com](turlututu.png)
 
 ## Bonus
 - Crée une version en HTML sémantique de ces documents et améliore la lisibilité en appliquant tout le css pour en améliorer le contenu. Cherche à produire un résultat favorisant la lecture, proche d'un article sur Medium :

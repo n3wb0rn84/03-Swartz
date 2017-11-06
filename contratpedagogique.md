@@ -51,7 +51,8 @@ J’informe et justifie mon absence en envoyant un e-mail **au minimum un jour �
 Un des objectifs de la formation est de professionnaliser les apprenant.e.s. En d’autres termes, les apprenant.e.s devront se comporter comme s’ils / elles intégraient une entreprise. Ainsi :
 - Chaque absence ou retard doit être justifié par **un certificat ou un justificatif** qui sera remis aux formateurs. 
 - Pour les absences de plus de 2 jours, les justificatifs doivent être envoyés par e-mail aux 2 formateur·trice·s (photo ou scan) puis l’original sera remis aux formateur·trice·s lors du retour de l’apprenant·e. 
-(Rappel : Antidater et/ou certifier faussement d’une maladie sont des infractions pénales punies par la loi.)
+
+Rappel : **Antidater et/ou certifier faussement d’une maladie sont des infractions pénales punies par la loi**.
 
 Si ce n’est pas le cas, les sanctions suivantes seront mises en oeuvre : 
 - Deux retards non justifiés seront comptabilisés comme une absence ;
