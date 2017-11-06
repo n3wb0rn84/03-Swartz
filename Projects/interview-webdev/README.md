@@ -22,6 +22,6 @@ Nous te demandons au minimum les pages suivantes :
 ## Bonnes pratiques
 
 - Si tu utilises des images pour illustrer ton site, demande l'autorisation aux auteurs ou utilise des images libres de droit.
-- N'oublie pas l'attribut alt à utiliser à l'insertion de chaque image ! [Lis ici pourquoi](https://la-cascade.io/bien-utiliser-lattribut-alt/).
+- N'oublie pas l'attribut `alt` à utiliser à l'insertion de chaque image ! [Lis ici pourquoi](https://la-cascade.io/bien-utiliser-lattribut-alt/).
 - Utilise les bonnes balises HTML pour bien hiérarchiser ton contenu.
 - N'oublie pas de mettre un favicon.
