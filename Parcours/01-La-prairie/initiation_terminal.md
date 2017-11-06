@@ -34,6 +34,6 @@ Pour t'exercer, lance le terminal en appuyant simultanément sur CTRL + ALT + T.
 - Toujours dans [Octocat], crée un nouveau fichier que tu nommes avec ton propre nom-prenom et avec l'extension `md`. Dedans, rédige un petit texte qui répondrait à la question "Pourquoi être apprenant chez BeCode".
 - Supprime le fichier `fichier.txt`
 - Affiche le contenu du dossier [Octocat].
-- Crée le répertoire [Skills] et crée un fichier `reussite.md` où tu feras la liste de toutes compétences en informatique. Cela peut être une liste de programmes que tu connais et/ou que tu utilises, de langages que tu connais ou que tu souhaiterais apprendre, de choses que tu sais faire (exemple : faire un gif animé),...
+- Crée le répertoire [Skills] et crée un fichier `reussite.md` où tu feras la liste de toutes tes compétences en informatique. Cela peut être une liste de programmes que tu connais et/ou que tu utilises, de langages que tu connais ou que tu souhaiterais apprendre, de choses que tu sais faire (exemple : faire un gif animé),...
 - Navigue dans tes dossiers pour retrouver la souris que tu as téléchargée tout à l'heure.
 - Crée le répertoire `becode_projects` dans lequel tu mettras tous tes projets de développement durant ton passage à BeCode.
