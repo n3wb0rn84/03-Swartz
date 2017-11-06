@@ -66,7 +66,7 @@ Contrôler l'aspect du texte : `font-style` (serif / sans-serif), font-size, col
 	- stylise l'état "survolé" et l'état "visité" des liens.
 -  le **bloc** : margin / padding / Width / Height  
 
-![Le bloc](https://www.dropbox.com/s/jhv1lod1kw1ieas/Capture%20d%27%C3%A9cran%202017-05-15%2023.39.38.png?dl=1)  
+![Le bloc](https://www.dropbox.com/s/jhv1lod1kw1ieas/Capture%20d%27%C3%A9cran%202017-05-15%2023.39.38.png)  
 Une balise est rendue sous forme de "bloc". Tu peux contrôler les dimensions et les espacements de ce bloc :   
 
 - `width`/`height` : dimensions  
