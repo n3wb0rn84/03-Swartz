@@ -1,4 +1,4 @@
 # Quizz HTML
 
-- [HTMl de base](html-base-1.md)
-- [HTMl formulaire de base](html-formulaire-beginner.md)
+- [HTML de base](html-base-1.md)
+- [HTML formulaire de base](html-formulaire-beginner.md)

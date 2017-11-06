@@ -32,9 +32,9 @@ La nouvelle balise <time> permet de baliser une date structurée. Quelle serait 
 5
 À partir de quelle version d'Internet Explorer peut-on utiliser nativement les éléments de section HTML5 (sans hack ou script complémentaire) ?
 
- Internet Explorer 8
- Internet Explorer 9
- Internet Explorer 10
+- Internet Explorer 8
+- Internet Explorer 9
+- Internet Explorer 10
 6
 Quelle est la méthode pour associer une légende complète à une illustration ?
 ```

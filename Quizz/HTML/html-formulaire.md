@@ -1,12 +1,12 @@
 # Formulaire HTML (base)
 
-1. Dans quel balise sont inséré les éléments de formulaire ?
+1. Dans quelle balise sont inséré les éléments de formulaire ?
 ```
 <form>
 <formulaire>
 <inputfields>
 ```
-1. Quel balise permet de grouper les entrées d'un formulaire ? 
+1. Quelle balise permet de grouper les entrées d'un formulaire ? 
 ```
 <textarea>
 <fieldset>
@@ -30,7 +30,7 @@
 <input type="checkbox">
 <select>
 ```
-1. Quel est la bonne proposition pour demander les options d'une voiture ?
+1. Quelle est la bonne proposition pour demander les options d'une voiture ?
 ```
 <input type="radio">
 <input type="checkbox">
@@ -48,25 +48,25 @@
 <input type="texte d'attente">
 <input placeholder="texte d'attente">
 ```
-1. Quel balise permet d'inserer du texte en multi-ligne ?
+1. Quelle balise permet d'inserer du texte en multi-ligne ?
 ```
 <input type="multiline">
 <textarea>
 <p>
 ```
-1. Quel balise permet de faire une liste deroulante ?
+1. Quelle balise permet de faire une liste deroulante ?
 ```
 <input>
 <select>
 <start>
 ```
-1. Dans une liste déroulante quel tag permet de différencier chaque élément ?
+1. Dans une liste déroulante, quel tag permet de différencier chaque élément ?
 ```
 <element>
 <option>
 <li>
 ```
-1. Quel balise permet d'envoyer un formulaire ?
+1. Quelle balise permet d'envoyer un formulaire ?
 ```
 <input type="submit">
 <button type="submit"></button>
