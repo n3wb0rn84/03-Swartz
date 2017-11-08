@@ -16,8 +16,8 @@ Tu penses savoir comment faire une rechercher Google de qualité ? [Consulte ce 
 ## Git
 
 - [Exercice : Configuration Git](git/exercice-git-configuration.md)
-- [Exercice : Cadavre exquis](git/exercice-git-cadavre-exquis.md)
 - [Exercice : Git training](git/exercice-git-training.md)
+- [Exercice : Cadavre exquis](git/exercice-git-cadavre-exquis.md)
 
 ## Markdown, HTML et choses
 
