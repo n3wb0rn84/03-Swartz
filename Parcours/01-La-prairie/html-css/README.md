@@ -3,7 +3,7 @@ Créer le dossier "Learning environement" et pour chaque exercice, créer un dos
 
 - N'oubliez pas de commenter votre code
 - N'oubliez pas de l'indenter
-- Coder proprement, personne ne passera derrière ;)
+- Codez proprement, personne ne passera derrière pour le nettoyer.
 
 
 ## exercices
