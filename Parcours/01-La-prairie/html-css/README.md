@@ -1,9 +1,9 @@
 # Projet
-Créer le dossier "Learning environement" et pour chaque exercice, créer un dossier au nom de l'exercice avec vos fichiers dedans.
+Créer le dossier "Learning environment" et pour chaque exercice, crée un dossier au nom de l'exercice avec tes fichiers dedans.
 
-- N'oubliez pas de commenter votre code
-- N'oubliez pas de l'indenter
-- Codez proprement, personne ne passera derrière pour le nettoyer.
+- N'oublie pas de commenter ton code
+- N'oublie pas de l'indenter pour le rendre plus facile à deboguer
+- Code proprement, personne ne passera derrière pour le nettoyer.
 
 
 ## exercices
