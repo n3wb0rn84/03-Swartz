@@ -8,7 +8,7 @@
 
 ## Instructions de cet exercice
 
-- Créer une maquette avec votre logiciel de maquettage dans l'objectifs de faire un site internet OnePage pour une opération Caritative au choix
+- Créer une maquette avec un logiciel de maquettage (balsamiq mockup, invision.com, ...) dans l'objectif de faire un site internet OnePage pour une opération Caritative au choix
 - Utiliser le fichier `index.html` pour exprimer tout ça (tu peux utiliser du contenu de site existant pour les textes et pour les images google avec les outils de recherche te permettra de trouver des images libre de droits)
 - Dans ces paragraphes, mettre en évidence un ou plusieurs mots importants.
 - Inclure une citation que tu aimes et qui te représente bien. (Tu peux aller voir sur [thatsthespir.it](https://thatsthespir.it)).
