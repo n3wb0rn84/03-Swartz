@@ -22,7 +22,7 @@ Typiquement, il y a peu de contenu, mais c'est hyper propre, hyper contrôlé, p
 
 - Mets une image de fond
 - Ajoute des dégradés au lieu d'avoir des couleurs plates
-
+- Encore du temps ? Challenge-toi : ajoute des animations en CSS.
 ## Ressources 
 
 - [Règles CSS](https://www.w3schools.com/css/default.asp)
