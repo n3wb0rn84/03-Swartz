@@ -9,8 +9,9 @@
 - Travail par groupe de 4 à 5 personnes
 - un(e) membre crée un repo intitulé `exercice-markdown` que les autres clonent (stratégie des mousquetaires).
 - Le groupe doit utiliser le système des branches de Git pour travailler collaborativement ce contenu.
-- Contenu : un pense-bête (un memo) de soit:
-   - ce que vous avez retenu de la journée 1 de l'atelier Google (synthèse de vos différentes notes).
+- Contenu : un pense-bête (un memo) de :
+   - les commandes utiles du terminal.
+   - une présentation de Git (pourquoi, historique) et les commandes utiles, avec leurs explications
    - ce qu'est le MarkDown et un inventaire de sa syntaxe, le plus complet possible.
 -  Organisez le contenu dans au moins deux documents en MarkDown (extension des fichiers : `.md`).
 - Chaque fichier contient un menu permettant d'accéder à tous les autres.
