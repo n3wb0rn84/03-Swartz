@@ -5,7 +5,7 @@
 
 ## Instructions
 
-- Créer toi un projet GitHub "Learning Environment"
+- Créer toi un projet GitHub `exercice-markdown-to-html`
 - Crée un fichier `index.html`
 - Convertis le dernier [markdown réalisé précédemment](../exercice-markdown.md) dans le fichier `index.html`
 - Publie sur ton dépôt le fichier HTML
