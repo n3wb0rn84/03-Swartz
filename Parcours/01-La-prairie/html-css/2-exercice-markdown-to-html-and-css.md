@@ -9,6 +9,7 @@
 - Change la couleur de fond
 - Change la couleur du texte
 - Change la couleur des liens à l'état normal, au survol et une fois visités
+- Attention à trouver les bonnes balises html pour présenter des instructions de code
 
 ## Outils colorimétriques
 
