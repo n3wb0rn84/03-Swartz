@@ -11,8 +11,8 @@
 ## Objectifs
 
 - Réaliser une page présentant Aaron Swartz
-- Comprendre les principes du HTML et du CSS
-- Présenter ta page et ta code
+- Comprendre comment exécuter un layout à partir de HTML et de CSS
+- Utiliser des outils tels que Google Webfont, FontAwesome
 - muscler ton réflexe Git
 
 ## Briefing
@@ -20,7 +20,7 @@
 ### Étape 1 : Git
 
 - Crée un dépôt sur GitHub nommé `aaron-swartz`
-- Cloner ce dépôt sur ton ordinateur pour démarrer le développement local.
+- Clone ce dépôt sur ton ordinateur pour démarrer le développement local.
 - Rédige un readme.md qui explique le qui/quoi/quand/comment/pourquoi.
 
 ### Étape 2 : HTML
@@ -30,17 +30,13 @@
 - Crée un fichier **index.html**
 - Crée un fichier **style.css**
 - Crée un dossier **images**
-- Télécharger cette image dans le dossier **images** :   
+- Télécharge ces images dans le dossier **images** :   
 	- ![Aaron](https://www.internethalloffame.org/sites/default/files/inductees/Aaron%20Swartz.jpg)
 	- ![](./images/aaron-swartz.jpg)
 	- Tu peux en [ajouter d'autres si tu veux](https://www.ecosia.org/images?q=aaron+swartz).  
-- Dans **index.html** transformer [ce contenu](./contenus/8-contenu_aaron-swartz.md) en html **valide** (vérifier via le validateur W3C).
+- Dans **index.html** rédige un contenu présentant Aaron à partir de [la veille de Guillaume](https://docs.google.com/presentation/d/19_uMInv5zp1HRO4IWIV-QBfPaoP0d9oHofMRXuQ44QQ/edit), et/ou de [ce contenu](./contenus/8-contenu_aaron-swartz.md), le tout en en html5 **valide** (vérifier via le validateur W3C).
   - Lien vers la page Wikipedia de Tim Berners-Lee : https://fr.wikipedia.org/wiki/Tim_Berners-Lee
-  - Pour avoir les icones utiliser ceci : 
-  ```html
-  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-  ``` 
-  - Pour choisir les icones rendez-vous chez [FontAwesome](http://fontawesome.io/icons/)
+  - Pour intégrer les icônes utilise [FontAwesome](http://fontawesome.io/icons/)
 
 ### Étape 3 : CSS
 
@@ -55,7 +51,7 @@
 
 - Ajoute des `div` en HTML pour séparer les éléments en blocs
 - Dans **style.css**
-   - Redimentione les `div`
+   - Redimentionne les `div`
    - Centre les `div`
    - Mets une couleur de fond sur les `div`
    - Change la couleur des textes
@@ -74,6 +70,10 @@
 
 - Publie ton projet comme une Github Pages
 - Si tu veux, publie l'url sur notre team Ryver 
+
+### Étape 6 : un gros câlin
+
+![Giphy](https://media0.giphy.com/media/11s7Ke7jcNxCHS/giphy.gif)
 
 
 
