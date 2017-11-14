@@ -15,4 +15,5 @@ Créer le dossier "Learning environment" et pour chaque exercice, crée un dossi
 - [5 - créer un CV](5-exercice-creer-un-cv.md)
 - [6 - Vcard en HTML](6-exercice-vcard-html.md)
 - [7 - Star Wars](7-exercice-star-wars.md)
-- [8 - Présentation](8-exercice-summary.md)
+- 8 - Exercice Git / Cadavre exquis
+- 9 - 1 page pour tous, tous pour la page. (En groupe)
