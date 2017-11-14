@@ -10,30 +10,31 @@
 
 ## Objectifs
 
-- Réaliser une page sur Tim Berner Lee
+- Réaliser une page présentant Aaron Swartz
 - Comprendre les principes du HTML et du CSS
-- Présenter votre page et votre code
+- Présenter ta page et ta code
+- muscler ton réflexe Git
 
 ## Briefing
 
 ### Étape 1 : Git
 
-- Crée un dépôt sur GitHub nomé "starting-web-developpment"
-- Cloner ce dépot sur votre ordinateur
+- Crée un dépôt sur GitHub nommé `aaron-swartz`
+- Cloner ce dépôt sur ton ordinateur pour démarrer le développement local.
+- Rédige un readme.md qui explique le qui/quoi/quand/comment/pourquoi.
 
 ### Étape 2 : HTML
 
-Faire les actions suivantes dans le dossier **"starting-web-developpment"**
+`cd ` dans le dossier **"aaron-swartz"**
 
 - Crée un fichier **index.html**
 - Crée un fichier **style.css**
 - Crée un dossier **images**
-- Télécharger cette image dans le dossier **images** : ![tim](http://internethalloffame.org/sites/default/files/inductees/Berners-Lee_Tim.jpg)
-- Télécharger cette image dans le dossier **images** : ![space odyssey](http://lewagon.github.io/html-css-challenges/shared/images/space-odyssey.jpg)
-- Télécharger cette image dans le dossier **images** : ![monsieur hulot](http://lewagon.github.io/html-css-challenges/shared/images/monsieur-hulot.jpg)
-- Télécharger cette image dans le dossier image : ![alien](http://lewagon.github.io/html-css-challenges/shared/images/alien.jpg)
-
-- Dans **index.html** écrire du code HTML dont le résultat doit correspondre exactement à cette image ![Goal CSS](images/goal-html.png)
+- Télécharger cette image dans le dossier **images** :   
+	- ![Aaron](https://www.internethalloffame.org/sites/default/files/inductees/Aaron%20Swartz.jpg)
+	- ![](./images/aaron-swartz.jpg)
+	- Tu peux en [ajouter d'autres si tu veux](https://www.ecosia.org/images?q=aaron+swartz).  
+- Dans **index.html** transformer [ce contenu](./contenus/8-contenu_aaron-swartz.md) en html **valide** (vérifier via le validateur W3C).
   - Lien vers la page Wikipedia de Tim Berners-Lee : https://fr.wikipedia.org/wiki/Tim_Berners-Lee
   - Pour avoir les icones utiliser ceci : 
   ```html
@@ -43,31 +44,36 @@ Faire les actions suivantes dans le dossier **"starting-web-developpment"**
 
 ### Étape 3 : CSS
 
-- Faire de sorte que votre page ressemble à celle-ci ![Goal CSS](images/goal-css.png)
-- Pour avoir une jolie typographie utiliser ceci : 
-```html
+**Fais en sorte que ta page ressemble à celle-ci**  
+![Goal CSS](images/goal-css.png)
+
+- Pour avoir une jolie typographie utilise une webfont gratuite sur [Google Font](https://fonts.google.com/?query=open&selection.family=Montserrat|Open+Sans). Par exemple :   
+
+```html  
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700">
 ```
-- Suivre le lien pour savoir comment utiliser [Google Font](https://fonts.google.com/?query=open&selection.family=Montserrat|Open+Sans)
-- Ajouter des `div` en HTML pour séparer les éléments en blocs
+
+- Ajoute des `div` en HTML pour séparer les éléments en blocs
 - Dans **style.css**
-   - Redimentioner les `div`
-   - Centrer les `div`
-   - Mettre une couleur de fond sur les `div`
-   - Changer la couleur des textes
-   - Aligner les textes
+   - Redimentione les `div`
+   - Centre les `div`
+   - Mets une couleur de fond sur les `div`
+   - Change la couleur des textes
+   - Aligne les textes
+
+À chaque étape réussie, pense à committer localement.
 
 ### Étape 4 : Sauver avec Git
 
 - Faire un `add` 
 - Faire un `commit` 
 - Faire un `push`
-- Aller sur votre profile GitHub pour vérifier les changements
+- Aller sur votre profile GitHub pour vérifier si les changements locaux se trouvent bien sur votre repo distant. Si c'est le cas, c'est cool. Sinon, c'est pas cool et cherche à comprendre pourquoi jusqu'à ce que cela fonctionne.
 
 ### Étape 5 : Présentation
 
-- Présenter son code
-- Expliquer les difficultés rencontrées
+- Publie ton projet comme une Github Pages
+- Si tu veux, publie l'url sur notre team Ryver 
 
 
 
