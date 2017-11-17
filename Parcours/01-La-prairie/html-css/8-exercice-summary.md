@@ -34,7 +34,7 @@
 	- ![Aaron](https://www.internethalloffame.org/sites/default/files/inductees/Aaron%20Swartz.jpg)
 	- ![](./images/aaron-swartz.jpg)
 	- Tu peux en [ajouter d'autres si tu veux](https://www.ecosia.org/images?q=aaron+swartz).  
-- Dans **index.html** rédige un contenu présentant Aaron soit en Français à partir de [la veille de Guillaume](https://docs.google.com/presentation/d/19_uMInv5zp1HRO4IWIV-QBfPaoP0d9oHofMRXuQ44QQ/edit), soit en Anglais à partir de [ce contenu](./contenus/8-contenu_aaron-swartz.md), le tout en en html5 **valide** (vérifier via le validateur W3C).
+- Dans **index.html** rédige un contenu présentant Aaron soit en Français à partir de [la veille de Guillaume](https://docs.google.com/presentation/d/19_uMInv5zp1HRO4IWIV-QBfPaoP0d9oHofMRXuQ44QQ/edit), soit en Anglais à partir de [ce contenu](./8-contenu_aaron-swartz.md), le tout en en html5 **valide** (vérifier via le validateur W3C).
   - Lien vers la page Wikipedia d'Aaron Swartz : https://fr.wikipedia.org/wiki/Aaron_Swartz
   - Pour intégrer les icônes utilise [FontAwesome](http://fontawesome.io/icons/)
 
