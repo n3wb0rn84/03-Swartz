@@ -24,6 +24,5 @@ Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te
 
 1. [La-prairie](./Parcours/01-La-prairie/)
 
-## Ressources 
-- [Grafikart](https://www.youtube.com/user/grafikarttv)
-- [OpenClassroom](https://openclassrooms.com/dashboard)
+## Veille 
+[L'agenda des veilles de la startup](https://github.com/becodeorg/La-Veille/blob/master/Swartz3/agenda.md).
