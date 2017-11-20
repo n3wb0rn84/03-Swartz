@@ -12,7 +12,6 @@ Créer une page html qui présente chaque membre de ton équipe. Il n'y aura qu'
 
 - Maitriser Git en groupe
 - html + css
-- framework css : knacss
 
 ## Briefing
 
@@ -41,7 +40,7 @@ Créer une page html qui présente chaque membre de ton équipe. Il n'y aura qu'
 2.3. Prévoir aussi une photo de groupe, format paysage, où vous vous montrez de manière dynamique et décalée.
 
 ### 3 : L'aspect visuel
-- utilise le framework CSS [knacss](https://knacss.com/)
+
 - personnalise la couleur des liens
 - respecte le schéma d'écran ci-dessous, en alternant la position horizontale de la photo (à gauche si la précédente personne l'avait à droite, et inversément).
 - Pour chaque zone, choisir une couleur de fond différente (si tu veux, va voir sur [coolors.co](https://coolors.co) pour avoir des agencements harmonieux).
@@ -67,7 +66,7 @@ Créer une page html qui présente chaque membre de ton équipe. Il n'y aura qu'
 - Publie ton projet comme une Github Pages
 - Publie l'url sur notre team Ryver. S'il est vraiment chouette, on le partagera sur le channel global.
 
-### 6 : un gros câlin
+### 6 : un autre gros câlin
 
 ![](./images/calin.gif)
 
