@@ -1,10 +1,10 @@
 # Projet
-Créer le dossier "Learning environment" et pour chaque exercice, crée un dossier au nom de l'exercice avec tes fichiers dedans.
+Créer le dossier "BeCode / Prairie " et pour chaque exercice, crée un sous-dossier au nom de l'exercice avec tes fichiers dedans.
 
-- N'oublie pas de commenter ton code
+- N'oublie pas de commenter ton code.
+- pour chaque exercice, crée un repos (le nom est fourni à chaque fois normalement)
 - N'oublie pas de l'indenter pour le rendre plus facile à deboguer
 - Code proprement, personne ne passera derrière pour le nettoyer.
-
 
 ## exercices
 
