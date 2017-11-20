@@ -40,7 +40,7 @@
 
 ### Étape 3 : CSS
 
-**Fais en sorte que ta page ressemble à celle-ci**  
+**Fais en sorte que ta page ressemble le plus exactement possible à celle-ci**  
 ![Goal CSS](images/goal-css.png)
 
 - Pour avoir une jolie typographie utilise une webfont gratuite sur [Google Font](https://fonts.google.com/?query=open&selection.family=Montserrat|Open+Sans). Par exemple :   
