@@ -28,9 +28,9 @@ Créer une page html qui présente chaque membre de ton équipe. Il n'y aura qu'
 
 ### 2 : Le contenu
 
-- Branding: donnez un **nom à votre équipe**, et **fabriquez un logo rapidement** (via https://www.hipsterlogogenerator.com par exemple) 
+2.1. Branding: donnez un **nom à votre équipe**, et **fabriquez un logo rapidement** (via https://www.hipsterlogogenerator.com par exemple) 
 
-Chaque membre contribue à la création du contenu à présenter, avec ces informations le concernant :   
+2.2. Chaque membre contribue à la création du contenu à présenter, avec ces informations le concernant :   
 
 - une photo de son visage  
 - son prénom et nom en titre
@@ -38,7 +38,7 @@ Chaque membre contribue à la création du contenu à présenter, avec ces infor
 - un ou deux paragraphes décrivant ce qu'il/elle vient chercher à BeCode, et son objectif professionnel après BeCode.
 - trois liens externes (linkedin, github, site perso) avec des icônes.
 
-- une photo de groupe, format paysage, où vous vous montrez de manière dynamique et décalée.
+2.3. Prévoir aussi une photo de groupe, format paysage, où vous vous montrez de manière dynamique et décalée.
 
 ### 3 : L'aspect visuel
 - utilise le framework CSS [knacss](https://knacss.com/)
