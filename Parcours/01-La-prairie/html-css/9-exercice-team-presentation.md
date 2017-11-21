@@ -11,7 +11,7 @@ Créer une page html qui présente chaque membre de ton équipe. Il n'y aura qu'
 ## Compétences travaillées
 
 - Maitriser Git en groupe
-- html + css
+- HTML + CSS
 
 ## Briefing
 
@@ -63,7 +63,8 @@ Créer une page html qui présente chaque membre de ton équipe. Il n'y aura qu'
 
 ### 5 : Présentation
 
-- Publie ton projet comme une Github Pages
+- Publie ton projet comme une Github Pages, 
+- Sur le repo de ce projet situé sur ton profil, associe l'URL de la GitHub Page,
 - Publie l'url sur notre team Ryver. S'il est vraiment chouette, on le partagera sur le channel global.
 
 ### 6 : un autre gros câlin
