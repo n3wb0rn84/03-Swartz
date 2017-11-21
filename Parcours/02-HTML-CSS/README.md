@@ -10,7 +10,6 @@
 - [Liste des exercices](exercices.md)
 
 ### Projet :
-- [Interview de webdev](../../Projects/interview-webdev)
 - [Amélioration progressive](../../Projects/progressive-enhancement)
 
 ### Ressources générales :
