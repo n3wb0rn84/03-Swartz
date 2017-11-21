@@ -3,7 +3,7 @@
 - en groupe de 4 ou 5 (max)
 - repo : `exercice-9-team-presentation`
 - stratégie : mousquetaires.
-- temps imparti : aujourd'hui plus 2 jours ouvrables, top chrono.
+- temps imparti : quatre après-midi, top chrono.
 
 ## Objectif
 Créer une page html qui présente chaque membre de ton équipe. Il n'y aura qu'une seule page html, chacun(e) va travailler sur sa branche puis la merger dans le master.
