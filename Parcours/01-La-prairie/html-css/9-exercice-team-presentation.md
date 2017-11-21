@@ -2,7 +2,7 @@
 
 - en groupe de 4 ou 5 (max)
 - repo : `exercice-9-team-presentation`
-- stratégie : mousquetaires.
+- stratégie Git : mousquetaires (chacun(e) sur sa branche, avec un(e) capitaine).
 - temps imparti : quatre après-midi, top chrono.
 
 ## Objectif
