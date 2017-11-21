@@ -1,18 +1,7 @@
 # Exercices HTML5
 *N'oubliez pas de toujours sauvegarder vos exercices sur vos repos GitHub !*
 
-## Page simple HTML - Exercice 1
-
-*(présent sur le slide HTML5)*
-Avec vos nouvelles compétences HTML5 et CSS, créer une page. 
-Elle devra comporter :
-- Nom et Prénom
-- Une photo de vous
-- Une description
-- Coordonnées 
-- Formulaire de contact (Une occasion de vous entraîner au formulaire)
-
-## Animations CSS - Exercice 2
+## Exercice 1 - Animations CSS
 
 *(présent sur le slide CSS3)*
 Créer une animation CSS
@@ -20,7 +9,7 @@ Créer une animation CSS
 - Votre fond de la page doit changer au minimum 4 fois de couleurs.
 - Amusez-vous en explorant plus loin des animations.
 
-## Tableau HTML - Exercice 3
+## Exercice 2 - Tableau en HTML
 
 Créer un tableau en HTML et CSS avec la balise `<table>`.
 Ce tableau contiendra une liste fictive d'apprenants pour l'école de BeCode Outsiplou. On souhaite y voir figurer :
@@ -37,18 +26,18 @@ Petites contraintes :
 
 Bonus : on rajoute un favicon mignon
 
-## CV en tableau - Exercice 4
+## Exercice 3 - CV en tableau
 
 [Nouvel exercice sur les tableaux](Training-3-tableau.md), un brin plus corsé.
 
 ## Reproduction en HTML/CSS - Exercice 5
 
-Reproduisez en HTML et CSS [le design du site Turlututu](turlututu.png) en essayant que ça soit le plus ressemblant possible. (difficulté ++)
-
-Reproduisez en HTML et CSS [le design du site activecollab](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/capture-fullpage.png) en essayant que ça soit le plus ressemblant possible. (difficulté +++)
-
-Et surtout lisez [les Dix Commandements du HTML et du CSS !](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS/blob/master/README_FR.md)!! 
+Avant toute chose, lisez [les Dix Commandements du HTML et du CSS !](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS/blob/master/README_FR.md)!! 
 Un recueil des bonnes pratiques ;)
+
+Selon votre niveau, choisissez un des exercices de reproduction :
+- Reproduisez en HTML et CSS [le design du site Turlututu](turlututu.png) en essayant que ça soit le plus ressemblant possible. (difficulté ++)
+- Reproduisez en HTML et CSS [le design du site activecollab](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/capture-fullpage.png) en essayant que ça soit le plus ressemblant possible. (difficulté +++)
 
 ## Media Queries - Exercice 6
 
@@ -56,7 +45,11 @@ Sur base d'[un site déjà existant](exo-respons.zip), adaptez-le pour les écra
 - Ne modifier que le fichier CSS
 - N'utiliser que le fichier CSS existant
 
-## Un vrai website - Exercice Bonus
+## BONUS - CSS Zen Garden
+
+- Briefing de l'exercice de [CSS Zen Garden](CSSZenGarden.md) (que du CSS, pas de HTML)
+
+## BONUS - Un vrai website
 
 Si et seulement si vous avez tout fini :
 
