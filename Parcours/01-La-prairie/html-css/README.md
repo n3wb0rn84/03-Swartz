@@ -15,5 +15,5 @@ Créer le dossier "BeCode / Prairie " et pour chaque exercice, crée un sous-dos
 - [5 - créer un CV](5-exercice-creer-un-cv.md)
 - [6 - Vcard en HTML](6-exercice-vcard-html.md)
 - [7 - Star Wars](7-exercice-star-wars.md)
-- 8 - Exercice Git / Cadavre exquis
-- 9 - 1 page pour tous, tous pour la page. (En groupe)
+- [8 - Présentation Aaron Swartz](8-exercice-summary.md)
+- [9 - 1 page pour tous, tous pour la page. (En groupe)](9-exercice-team-presentation.md)
