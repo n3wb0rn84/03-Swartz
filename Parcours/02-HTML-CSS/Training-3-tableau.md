@@ -1,4 +1,4 @@
-# Training day n°3: les Tableaux.
+# Les Tableaux
 
 ## Instructions
 
