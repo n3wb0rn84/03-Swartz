@@ -33,6 +33,8 @@ Utiliser un [générateur de logos gratuit](https://www.hipsterlogogenerator.com
 # ATTENTION
 Avant d'envoyer votre travail sur GitHub, rédiger un fichier **README.md** où vous indiquerez les sites sources où ils auront trouvé les photos. Citer ses sources, c'est important !!!
 
+Inspirez-vous de ce qui se fait sur le net. Le but du jeu n'est pas uniquement de pratiquer le code mais de faire en sorte que votre site soit crédible, qu'il ressemble à un vrai website. Mettez le paquet.
+
 ## Ressources :
 - [w3schools : les formulaires](https://www.w3schools.com/html/html_forms.asp)
 - [hipsterlogogenerator : générateur de logos gratuit](https://www.hipsterlogogenerator.com)
