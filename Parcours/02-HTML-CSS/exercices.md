@@ -3,6 +3,8 @@
 
 ## Exercice 1 - Animations CSS
 
+Repo : `exoHTML-CSS`
+
 *(présent sur le slide CSS3)*
 Créer une animation CSS
 - Faire bouger un bloc avec une image à l'intérieur d’un bout à l’autre de votre écran, sans s'arrêter.
@@ -10,6 +12,8 @@ Créer une animation CSS
 - Amusez-vous en explorant plus loin des animations.
 
 ## Exercice 2 - Tableau en HTML
+
+Repo : `exoHTML-CSS`
 
 Créer un tableau en HTML et CSS avec la balise `<table>`.
 Ce tableau contiendra une liste fictive d'apprenants pour l'école de BeCode Outsiplou. On souhaite y voir figurer :
@@ -30,16 +34,18 @@ Bonus : on rajoute un favicon mignon
 
 [Nouvel exercice sur les tableaux](Training-3-tableau.md), un brin plus corsé.
 
-## Reproduction en HTML/CSS - Exercice 5
+## Exercice 4 - Reproduction en HTML/CSS
 
 Avant toute chose, lisez [les Dix Commandements du HTML et du CSS !](https://github.com/simplonco/Ten-Commandments-of-HTML-and-CSS/blob/master/README_FR.md)!! 
 Un recueil des bonnes pratiques ;)
 
 Selon votre niveau, choisissez un des exercices de reproduction :
-- Reproduisez en HTML et CSS [le design du site Turlututu](turlututu.png) en essayant que ça soit le plus ressemblant possible. (difficulté ++)
-- Reproduisez en HTML et CSS [le design du site activecollab](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/capture-fullpage.png) en essayant que ça soit le plus ressemblant possible. (difficulté +++)
+- Reproduisez en HTML et CSS [le design du site Turlututu](turlututu.png) en essayant que ça soit le plus ressemblant possible. (difficulté ++) // Nom du Repo : `Turlututu`
+- Reproduisez en HTML et CSS [le design du site activecollab](https://github.com/becodeorg/BXLAnderlecht/blob/master/02-HTML-CSS/capture-fullpage.png) en essayant que ça soit le plus ressemblant possible. (difficulté +++) // Nom du Repo : `ActiveCollab`
 
-## Media Queries - Exercice 6
+## Exercice 5 - Media Queries
+
+Repo : `exomediaqueries`
 
 Sur base d'[un site déjà existant](exo-respons.zip), adaptez-le pour les écrans de smartphone et de tablette.
 - Ne modifier que le fichier CSS
