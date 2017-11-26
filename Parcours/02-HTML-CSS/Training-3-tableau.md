@@ -2,6 +2,8 @@
 
 ## Instructions
 
+Nom du Repo : `CV-table`
+
 Vous allez créer un CV en vous inspirant du gabarit que vous allez trouver en-dessous des instructions.
 
 **ATTENTION**:
@@ -47,4 +49,4 @@ Pareil pour les Front Awesome Icons. Comme on a vu l'autre fois sur *les joies d
 ###OUPS! c'est un peu facile, je l'avoue, mais c'est seulement en vous entrainant que vous marcherez sur la mer.
 ![alt emoticone](https://s-media-cache-ak0.pinimg.com/236x/ec/44/09/ec4409cd24c39f97489d4eb4db70b643.jpg?noindex=1)
 
-# Amusez-vouuuuuuuuuuus!!!!
+# Amusez-vouuuuuuuuuuus !!!!
