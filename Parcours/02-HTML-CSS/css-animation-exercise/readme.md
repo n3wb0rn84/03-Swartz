@@ -25,13 +25,21 @@ This is an exercise in discipline, precision and accuracy. You will thus use a t
 Now, construct the animation step by step.
 
 ## Step 1
+Move the hero to the right, one time.  
 [![](./images/css_animation_exercise_1.png)](./images/css_animation_exercise_1.png)
 
 ## Step 2
+Move the hero to the right, in 5 seconds, indefinitely (loop animation).  
+
 [![](./images/css_animation_exercise_2.png)](./images/css_animation_exercise_2.png)
 ## Step 3
+Move the hero to the right, then two the left, in 2 seconds, indefinitely (loop animation).  
+
 [![](./images/css_animation_exercise_3.png)](./images/css_animation_exercise_3.png)
-## Step 4-7
+## Step 4
+Bon, finalement, revenons à ceci : 
+[![](./images/css_animation_exercise_2.png)](./images/css_animation_exercise_2.png)
+## Step 5-7
 You got it ? Ok, now follow these instructions. Think "pixel-perfect".
 [![](./images/css_animation_exercise_4.png)](./images/css_animation_exercise_4.png)
 
