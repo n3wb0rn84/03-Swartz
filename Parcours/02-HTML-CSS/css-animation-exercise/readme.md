@@ -1,22 +1,24 @@
 # CSS Animation drill
 
-This is an exercise in discipline, precision and accuracy. 
+**duration**: 1 day  
+**team**: false  
+**repo**: `css-animation-drill`
+
 
 In this exercise, you will build step by step a complex animation.
+This is an exercise in discipline, precision and accuracy. You will thus use a technique that could be called "the image background guide Technique". 
 
-**Tip**: for each step of the exercise, use the images as background-image (with a slight opacity perhaps?) to help you style precisely.
+**Tip: the image background guide Technique**: for each step of the exercise, use the [images](./images) as your body's background image (with a slight opacity perhaps?) to help you style precisely. When done, remove the background image.
 
 ```html
 <div id="stage" style="background: transparent url(./images/css_animation_exercise_stage.png) 0 0 no-repeat;">
 ```
 
-- Create a repo `css-animation-drill`
 - Create a standard index.html page
-- Use the [images](./images) as your body's background image
-- Create the stage. Add a div with the id "stage", style it so that it appears exactly like this image, and in the horizontal middle of your index page.
+- Create the stage: add a div with the id "stage", style it so that it appears exactly like this image, and in the horizontal middle of your index page.
 ![](./images/css_animation_exercise_stage.png)
-- Add a div with an id "square".
-- Style the `#square` so it looks exactly like this: 
+- Add a div with an id "hero".
+- Style the `#hero` so it looks exactly like this: 
 
 ![](./images/css_animation_exercise_square.png)
 
