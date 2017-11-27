@@ -31,7 +31,8 @@ Now, construct the animation step by step.
 [![](./images/css_animation_exercise_2.png)](./images/css_animation_exercise_2.png)
 ## Step 3
 [![](./images/css_animation_exercise_3.png)](./images/css_animation_exercise_3.png)
-## Step 4 : morph
+## Step 4-7
+You got it ? Ok, now follow these instructions. Think "pixel-perfect".
 [![](./images/css_animation_exercise_4.png)](./images/css_animation_exercise_4.png)
 
 ## Done ? Bravo ! 
