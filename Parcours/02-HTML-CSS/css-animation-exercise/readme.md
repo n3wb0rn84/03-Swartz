@@ -31,3 +31,7 @@ Now, construct the animation step by step.
 [![](./images/css_animation_exercise_3.png)](./images/css_animation_exercise_3.png)
 ## Step 4 : morph
 [![](./images/css_animation_exercise_4.png)](./images/css_animation_exercise_4.png)
+
+## Done ? Bravo ! 
+
+![Giphy](https://media2.giphy.com/media/2aVEyvRVMd86Q/giphy.gif)
