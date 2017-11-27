@@ -7,7 +7,7 @@ In this exercise, you will build step by step a complex animation.
 **Tip**: for each step of the exercise, use the images as background-image (with a slight opacity perhaps?) to help you style precisely.
 
 ```html
-<div id="stage" style="background: transparent url(./images/css_animation_exercise_stage.png) 0 0 no-repeat;
+<div id="stage" style="background: transparent url(./images/css_animation_exercise_stage.png) 0 0 no-repeat;">
 ```
 
 - Create a repo `css-animation-drill`
