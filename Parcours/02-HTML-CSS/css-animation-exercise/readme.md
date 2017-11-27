@@ -37,7 +37,7 @@ Move the hero to the right, then two the left, in 2 seconds, indefinitely (loop 
 
 [![](./images/css_animation_exercise_3.png)](./images/css_animation_exercise_3.png)
 ## Step 4
-Bon, finalement, revenons à ceci : 
+Oh well, that was a ton of fun. But let's go back to step 2.
 [![](./images/css_animation_exercise_2.png)](./images/css_animation_exercise_2.png)
 ## Step 5-7
 You got it ? Ok, now follow these instructions. Think "pixel-perfect".
