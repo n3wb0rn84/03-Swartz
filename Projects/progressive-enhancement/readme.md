@@ -144,13 +144,9 @@ Par défaut, le navigateur utilise les polices de caractères installées sur l'
 
 ## Du bon HTML ? 
 - Vérifie que ton HTML est **valide** via le [validateur du w3c](https://validator.w3.org/)
-- Vérifie que ton HTML permet **une bonne SEO organique**, via d'autres outils comme [Woorank (payant)](https://www.woorank.com/fr/)
+- Vérifie que ton HTML permet **une bonne SEO organique**, via d'autres outils comme le [SEO Analyzer (gratuit)](https://www.seocentro.com/tools/seo/seo-analyzer.html) ou [Woorank (payant)](https://www.woorank.com/fr/)
 
 ## Exercice pratique terminant ce sprint
-Sans aller voir le code source, reproduis le plus fidèlement possible les layouts suivants :    
-- [homepage de turlututu.com](turlututu.png)
-
-## Bonus
 - Crée une version en HTML sémantique de ces documents et améliore la lisibilité en appliquant tout le css pour en améliorer le contenu. Cherche à produire un résultat favorisant la lecture, proche d'un article sur Medium :
 - [8 façons simples d’améliorer la typographie dans vos designs](doc-ameliorer-sa-typo.txt) 
 - [Petit Guide Typographique](doc-guide-typographie.txt)
