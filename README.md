@@ -23,6 +23,9 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te sont proposés.
 
 1. [La-prairie](./Parcours/01-La-prairie/)
+1. [HTML / CSS](./Parcours/02-HTML-CSS/)
+1. [SASS](./Parcours/02.5-SASS/)
+1. [Bootstrap](./Parcours/03-Bootstrap/)
 
 ## Veille 
 [L'agenda des veilles de la startup](https://github.com/becodeorg/La-Veille/blob/master/Swartz3/agenda.md).
