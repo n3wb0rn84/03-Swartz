@@ -1,8 +1,8 @@
 # Projet : Un site en bootstrap
 
-Repository : `restaurant-css-framework`  
-Temps nécessaire :  4 jours
-Travail :  de groupe - solitaire   
+- Repository : `restaurant-css-framework`  
+- Temps nécessaire :  4 jours
+- Travail : solitaire   
 
 ## Mission
 
@@ -31,9 +31,11 @@ Il faut au minimum :
 
 ## Contrainte
 *pour ceux qui auraient l'audace d'y penser* :
-- Ne pas utiliser de thème déjà tout fait.
-- Utilise SASS.
-- Readme utile.
+- Ne pas utiliser de thème déjà tout fait ;
+- [Readme](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a) utile.
+
+## Bonus
+- Utilise SASS
 
 ## Déclaration de Colonel Meow
 ![Colonel Meow](https://media.giphy.com/media/11ryLwascq1zKU/giphy.gif)
