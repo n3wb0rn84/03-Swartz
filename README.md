@@ -13,6 +13,19 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 - Si tu dois fixer un rendez-vous quelconque, fixe-le le **mardi matin** (sois de retour pour 13h25).
 - Si vraiment tu ne peux faire autrement, préviens nous de ton absence ou retard **au moins un jour à l'avance** en envoyant un email à tes deux coachs. Nous l'ajouterons à l'agenda, de sorte que tout le monde sache qu'il ne peut compter sur toi à ce moment-là.
 
+## Congés
+
+|How is it called? | Dates |
+|---|---|
+| Educational Break (Swartz/Hamilton) | Friday 8/12/2017 | 
+| Christmas Holidays | From Monday 25/12/2017 to Friday 05/01/2018 | 
+| Eastern | Monday 02/04/2018 | 
+| Internship (Lovelace/Cycorp) | End of April 2018 | 
+| Labour Day | Tuesday 01/05/2018 | 
+| Ascension | Thursday 10/05/2018 | 
+| Pentecost Monday | Monday 21/05/2018 | 
+| Internship (Hamilton/Swartz) | June 2018 | 
+
 ## Contenus pédagogiques
 
 - [Parcours](/Parcours) : les parcours sont des tutoriels à faire en solitaire, alliant théorie et pratique, afin de monter rapidement en compétence. Ils sont rédigés par tes coachs. N'hésite pas à les refaire plusieurs fois.  
