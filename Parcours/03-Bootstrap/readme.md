@@ -4,7 +4,7 @@ Repository : `bootstrap-training`
 
 ## Introduction
 
-*Bootstrap* est l'un Framework CSS les plus populaires.  Les CSS Frameworks sont des outils de développement rapide pour le frontend.  Avec eux, vous récupérez des solutions toutes faites à des problèmes courants du développement Frontend:
+*Bootstrap* est l'un des Framework CSS les plus populaires. Les CSS Frameworks sont des outils de développement rapide pour le frontend. Avec eux, vous récupérez des solutions toutes faites à des problèmes courants du développement Frontend :
 
 - faire une grille responsive
 - faire un menu responsif
