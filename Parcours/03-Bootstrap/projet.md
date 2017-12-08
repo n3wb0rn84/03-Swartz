@@ -32,6 +32,7 @@ Il faut au minimum :
 ## Contrainte
 *pour ceux qui auraient l'audace d'y penser* :
 - Ne pas utiliser de thème déjà tout fait ;
+- Publier son site via GitHub Pages ;
 - [Readme](https://medium.com/becode/comment-faire-un-readme-sur-github-cc11f3df606a) utile.
 
 ## Bonus
