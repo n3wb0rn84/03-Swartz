@@ -4,6 +4,12 @@
 - Temps nécessaire :  4 jours
 - Travail : solitaire   
 
+## Objectifs d'apprentissage
+- maitriser l'utilisation de Bootstrap dans un projet réaliste
+- utiliser SASS dans un projet réaliste
+- consolider acquis en git, css et html
+- Bonus : avoir un projet à ajouter à son portfolio
+
 ## Mission
 
 Réalise le site vitrine d'une franchise de restaurants. La franchise est fictive mais le type de nourriture (burger, pizza, asiatique,...) est laissé au choix de l’apprenant.
