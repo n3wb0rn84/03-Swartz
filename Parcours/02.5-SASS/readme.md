@@ -60,7 +60,7 @@ Si tout s'est bien passé au terme de ce parcours inisasstique, tu as dû compre
 
 ## Aller plus loin
 
-Pour aller plus loin avec SASS, cela se psasse : http://thesassway.com/beginner
+Pour aller plus loin avec SASS, c'est là k'sass passe : http://thesassway.com/beginner
 
 
 
