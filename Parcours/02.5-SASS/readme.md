@@ -58,6 +58,10 @@ Si tout s'est bien passé au terme de ce parcours inisasstique, tu as dû compre
 
 ![sassy](images/sassy.gif)
 
+## Aller plus loin
+
+Pour aller plus loin avec SASS, cela se psasse : http://thesassway.com/beginner
+
 
 
 
