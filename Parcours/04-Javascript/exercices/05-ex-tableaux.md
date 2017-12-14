@@ -15,14 +15,5 @@ Bonus : transformez en : "Le premier est Stalone", Le deuxième est Cruiz", etc.
 
 ### Exercice : clone
 
-* Crée un tableau qui contetient les valeurs suivantes : "Mario", "Luigi", "Peach"
+* Crée un tableau qui contient les valeurs suivantes : "Mario", "Luigi", "Peach"
 * Dupliquez le tableau et y ajouter "Bowser"
-
-
-
-
-
-
-
-
-
