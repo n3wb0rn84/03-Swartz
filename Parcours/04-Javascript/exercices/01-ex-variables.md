@@ -36,14 +36,11 @@ Mettez le resultat dans la console comme ceci :
 
 ### Exercice : Priorités 
 
-Décomposer la résolution du calcul suivant : 
+Décomposer la résolution du calcul suivant pour comprendre les priorités : 
 
 `var result = (1 + 2) * 3 + 4 / 2;`
 
-- étape 1 : (1 + 2) * 3 + 4 / 2;
-- étape 2 : (1 + 2) * 3 + 4 / 2;
-- étape 3 : (1 + 2) * 3 + 4 / 2;
-- étape 4 : (1 + 2) * 3 + 4 / 2;
+
 
 
 
