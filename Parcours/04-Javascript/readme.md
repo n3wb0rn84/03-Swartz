@@ -10,9 +10,6 @@
 
 ### Avec vos nouvelles connaissances :
 
-- [Jeu du pendu](pendu.md)
-- [Juste prix](pendu.md)
-- [Les objets en js](objetsenjs.md)
 - [Javascript Recall](recall)
 - [JS Cookie Clicker](cookie-clicker)
 - [Jeu des paires](jeu-des-paires)
