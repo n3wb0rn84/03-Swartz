@@ -2,9 +2,9 @@
 
 Déclarez les variables suivantes : 
 
-- La valeur est égal au chiffre le plus petit dans l'enssemble suivant :  7, 5, -12, 6, 32, 18, 14, -2
-- La valeur est égal au chiffre le plus grand dans l'enssemble suivant : -3, 9, 21, 36, 27, 54, 17, 35
-- La valeur est égal a l'addition des deux précédentes variables
+- La valeur est égale au chiffre le plus petit dans l'ensemble suivant :  7, 5, -12, 6, 32, 18, 14, -2
+- La valeur est égale au chiffre le plus grand dans l'ensemble suivant : -3, 9, 21, 36, 27, 54, 17, 35
+- La valeur est égale à l'addition des deux précédentes variables
 
 ## Exercice : Aléatoire 1
 
@@ -23,7 +23,7 @@ Déclarez les variables suivantes :
 
 ### Exercice : aléatoire 3
 
-* crée un tableau qui contetient les valeurs suivantes : Goro, Johnny Cago, Kano, Liu Kano, Raiden, Reptil, Scorpion, Shang Tsun, Sonya, Sub-Zero
+* crée un tableau qui contient les valeurs suivantes : Goro, Johnny Cago, Kano, Liu Kano, Raiden, Reptil, Scorpion, Shang Tsun, Sonya, Sub-Zero
 * choisir un personnage aléatoirement dans le tableau
 
 
