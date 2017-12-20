@@ -18,7 +18,7 @@ Pour chaque composant, crée un dossier du même nom que l'image, contenant cett
         L img
 ```
 
-**Nom du repository à créer sur github:** `7-composants-de-design`  
+**Nom du repository à créer sur github:** `composants-de-design`  
 
 ## Installer un compilateur de SASS
 
