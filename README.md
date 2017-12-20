@@ -32,13 +32,14 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 - [Projets & exercices](/Projects) : les projets sont conçus pour t'amener à découvrir par toi-même des problématiques spécifiques de code, en auto-apprentissage. Ils servent également, bien sûr, à t'entraîner sur des projets réalistes.
 - [Missions](/Missions) : projets externes, commandités par de vrais clients.
 
-## Briefings de Projets
-Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te sont proposés.
+## Programme
+Voici les liens vers les différentes étapes du programme de la promo (ça s'ajoute au fur et à mesure)
 
 1. [La-prairie](./Parcours/01-La-prairie/)
 1. [HTML / CSS](./Parcours/02-HTML-CSS/)
 1. [SASS](./Parcours/02.5-SASS/)
 1. [Bootstrap](./Parcours/03-Bootstrap/)
+1. [Javascript](./Parcours/04-Javascript/)
 
 ## Veille 
 [L'agenda des veilles de la startup](https://github.com/becodeorg/La-Veille/blob/master/Swartz3/agenda.md).
