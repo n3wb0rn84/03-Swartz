@@ -5,7 +5,7 @@ Stocker des données est très important quant on écrit du code. Heureusemen
 Alors demandons à l'utilisateur son prénom.
 
 ```js
-var prenom = prompt('Bonjour mon cher ami puis­je avoir ton prénom ?');
+var prenom = prompt('Bonjour mon cher ami puis-je avoir ton prénom ?');
 ```
 Une petite popup va apparaître et il nous sera demandé courtoisement notre prénom. Tapez le votre et cliquez sur OK.
 Le prénom que vous avez tapé est maintenant sauvé. il peut être référé en tant que `prenom`. 
@@ -31,7 +31,7 @@ Pour déclarer une variable, utilisez le mot clé `var` comme ceci :
 var prenom;
 var age;
 ```
-Vous avez remarqué le point­virgule ? `;` ? 
+Vous avez remarqué le point virgule ? `;` ? 
 Presque toutes les lignes en JavaScript finissent avec un point­virgule.
 
 ### Initialisation
