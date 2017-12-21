@@ -9,8 +9,8 @@ var prenom = prompt('Bonjour mon cher ami puis-je avoir ton prénom ?');
 ```
 Une petite popup va apparaître et il nous sera demandé courtoisement notre prénom. Tapez le votre et cliquez sur OK.
 Le prénom que vous avez tapé est maintenant sauvé. il peut être référé en tant que `prenom`. 
-Vous pouvez récupérer ce que vous avez entré en tapant le mot  prenom  dans la console. Vous devrez voir votre prénom apparaître en retour juste en dessous !
-Vous avez créé une variable, Excitant non ?
+Vous pouvez récupérer ce que vous avez entré en tapant le mot  prenom  dans la console. Vous devriez voir votre prénom apparaître en retour juste en dessous !
+Vous avez créé une variable. Excitant non ?
 
 ### Les variables
 Penser une variable comme un tiroir sur lequel on a écrit un nom. 
@@ -18,9 +18,12 @@ Vous pouvez venir quand vous voulez ouvrir ce tiroir et regarder ce qu'il y a de
 
 Quand on tape le nom de la variable dans la console, on dit au navigateur : regarde dans tout tes tiroirs celui qui a ce nom et donne moi ce qu'il y a dedans. 
 La valeur peut être à peu près n'importe quoi. Dans `prenom` nous avons stocké des lettres, aussi nommées : chaîne de caractères. Nous pouvons également stocker des numéros et beaucoup d'autres types de données.
+
 Une variable a donc un nom et une valeur.
 
-Ils sont les meilleurs moyens de mémoriser des données et vous allez beaucoup les utiliser. Il y a deux parties à la création d'une variable ; la déclaration et l'initialisation. 
+C'est un très bon moyen de mémoriser des données pour pouvoir les manipuler. vous allez donc beaucoup les utiliser. 
+
+Il y a deux parties à la création d'une variable ; la **déclaration** et l' **initialisation**. 
 Une fois la variable créée, on peut lui assigner sa valeur.
 
 ### Déclaration
@@ -35,10 +38,12 @@ Vous avez remarqué le point virgule ? `;` ?
 Presque toutes les lignes en JavaScript finissent avec un point­virgule.
 
 ### Initialisation
-L'initialisation est le fait de donner à une variable sa valeur pour la première fois. La valeur peut changer plus tard, mais elle est initialisée qu'une seule fois.
+L'initialisation est le fait de donner à une variable sa valeur pour la première fois. La valeur peut changer plus tard, mais elle n'est initialisée qu'une seule fois.
 On initialise une variable en utilisant le signe `=`. Vous pouvez le lire comme ceci: la valeur de la variable sur la gauche devrait être les données qui se trouve sur sa droite.
 
-`var nom = "Tom";`
+```js 
+var nom = "Tom";
+```
 
 "Tom" est une chaîne de caractère, une collection de lettres. Une chaîne de caractères est entouré de double ou de simples guillemets.
 
@@ -91,11 +96,12 @@ Il est donc très important de s'assurer qu'il sera facile à lire.
 ### Séparation des fruits
 Disons que vous voulez partagez vos fruits entre trois personnes. 
 Combien de fruits chaque personne va recevoir ?
+
 ```
 var piecesForEachPerson = piecesOfFruit / 3;
 ```
-Quelle chance que nous ayons JavaScript. 
-Autrement on aurait besoin d'une calculatrice.
+
+Quelle chance que nous ayons JavaScript ; autrement on aurait besoin d'une calculatrice.
 On utilise un `/` pour indiquer la division : diviser la variable à gauche par le nombre à droite.
 
 ### Priorités et opérateurs
