@@ -3,7 +3,7 @@
 ### Programme
 
 - Cours : [01 - Introduction à Javascript](https://docs.google.com/presentation/d/156vrNVBSOSy_YdHRKbaoqXfr3GALC2dtZFbaU-pR5eI/edit?usp=sharing)
-- Entrainement : [Exercices de javascript](exercices)
+- Entrainement : [Exercices de javascript](exercices) et un peu de [lecture](lecture) pour ceux qui ont besoin
 
 À venir : le DOM, Canvas et AJAX
 
