@@ -25,7 +25,8 @@ Nous pouvons également déterminer si deux valeurs ne sont pas égales en ut
 Il est important de savoir que les chaînes contenant un nombre et un nombre réel ne sont pas égaux.
 ```
 '10' == 10
-­> false
+­> false ( Ici la réponse est vraie , pour return false ce sera '10' === 10 , pour la comparaison stricte sur la value et le type de la variable , ici 10 a la même value mais deux type différents int et string )
+
 ```
 
 ### Supériorité et infériorité
